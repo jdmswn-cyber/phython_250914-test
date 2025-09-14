@@ -15,6 +15,7 @@ description
 --
 
 ``` 텍스트박스
-``` python
+```
+python
 def my function(data)
 
