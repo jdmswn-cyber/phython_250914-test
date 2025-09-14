@@ -204,3 +204,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+#석차순으로 정렬
