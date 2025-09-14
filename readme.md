@@ -19,3 +19,4 @@ python
 def my function(data)
 
 😄
+:accessibility: 🧑
