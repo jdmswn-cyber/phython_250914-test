@@ -204,4 +204,9 @@ def main():
 
 if __name__ == '__main__':
     main()
-#석차순으로 정렬
+#석차순으로 정렬100까지 무작위 숫자 생성
+number =rando.radint(1,100)
+
+#몇 회 시도했는지를 저장하는
+
+num_of_guesses = 0
